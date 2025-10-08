@@ -15,4 +15,13 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Jithinc-gopal/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Jithinc-gopal/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Jithinc-gopal/leetcode/tree/master/0412-fizz-buzz) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Jithinc-gopal/leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Jithinc-gopal/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
