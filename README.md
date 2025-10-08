@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/Jithinc-gopal/leetcode/tree/master/0344-reverse-string) |
+| [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -24,4 +26,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Jithinc-gopal/leetcode/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
 <!---LeetCode Topics End-->
