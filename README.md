@@ -9,6 +9,7 @@
 | [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jithinc-gopal/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3778-transform-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/Jithinc-gopal/leetcode/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@
 | [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jithinc-gopal/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3778-transform-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Jithinc-gopal/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3778-transform-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
