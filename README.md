@@ -25,6 +25,7 @@
 | [0344-reverse-string](https://github.com/Jithinc-gopal/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jithinc-gopal/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Jithinc-gopal/leetcode/tree/master/0412-fizz-buzz) |
+| [0782-jewels-and-stones](https://github.com/Jithinc-gopal/leetcode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Jithinc-gopal/leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jithinc-gopal/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0782-jewels-and-stones](https://github.com/Jithinc-gopal/leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jithinc-gopal/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [4008-restore-finishing-order](https://github.com/Jithinc-gopal/leetcode/tree/master/4008-restore-finishing-order) |
 ## Queue
