@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/Jithinc-gopal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jithinc-gopal/leetcode/tree/master/0217-contains-duplicate) |
 | [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -41,6 +42,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jithinc-gopal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jithinc-gopal/leetcode/tree/master/0217-contains-duplicate) |
 | [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -49,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jithinc-gopal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jithinc-gopal/leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jithinc-gopal/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Jithinc-gopal/leetcode/tree/master/0782-jewels-and-stones) |
@@ -61,6 +64,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jithinc-gopal/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jithinc-gopal/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3778-transform-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
@@ -71,4 +75,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jithinc-gopal/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jithinc-gopal/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
