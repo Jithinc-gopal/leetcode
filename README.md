@@ -30,6 +30,7 @@
 | [0412-fizz-buzz](https://github.com/Jithinc-gopal/leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Jithinc-gopal/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Jithinc-gopal/leetcode/tree/master/0782-jewels-and-stones) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/Jithinc-gopal/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Math
 |  |
 | ------- |
