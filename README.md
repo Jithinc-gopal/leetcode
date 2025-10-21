@@ -28,6 +28,7 @@
 | [0344-reverse-string](https://github.com/Jithinc-gopal/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jithinc-gopal/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Jithinc-gopal/leetcode/tree/master/0412-fizz-buzz) |
+| [0742-to-lower-case](https://github.com/Jithinc-gopal/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Jithinc-gopal/leetcode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
