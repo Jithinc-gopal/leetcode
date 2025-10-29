@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Jithinc-gopal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jithinc-gopal/leetcode/tree/master/0217-contains-duplicate) |
+| [0909-stone-game](https://github.com/Jithinc-gopal/leetcode/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jithinc-gopal/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Jithinc-gopal/leetcode/tree/master/0412-fizz-buzz) |
+| [0909-stone-game](https://github.com/Jithinc-gopal/leetcode/tree/master/0909-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jithinc-gopal/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Jithinc-gopal/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Simulation
@@ -81,4 +83,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jithinc-gopal/leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Jithinc-gopal/leetcode/tree/master/0909-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Jithinc-gopal/leetcode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
