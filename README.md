@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Jithinc-gopal/leetcode/tree/master/0412-fizz-buzz) |
 | [0909-stone-game](https://github.com/Jithinc-gopal/leetcode/tree/master/0909-stone-game) |
