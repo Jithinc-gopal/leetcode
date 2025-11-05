@@ -14,6 +14,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jithinc-gopal/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Jithinc-gopal/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3778-transform-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/Jithinc-gopal/leetcode/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
