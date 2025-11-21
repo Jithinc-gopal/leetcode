@@ -115,4 +115,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Jithinc-gopal/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
