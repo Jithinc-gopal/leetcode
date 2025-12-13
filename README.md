@@ -55,6 +55,7 @@
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Jithinc-gopal/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Jithinc-gopal/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Jithinc-gopal/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Jithinc-gopal/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2556-convert-the-temperature](https://github.com/Jithinc-gopal/leetcode/tree/master/2556-convert-the-temperature) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jithinc-gopal/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
