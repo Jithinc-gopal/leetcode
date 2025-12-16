@@ -57,6 +57,7 @@
 | [1635-number-of-good-pairs](https://github.com/Jithinc-gopal/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Jithinc-gopal/leetcode/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Jithinc-gopal/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2413-smallest-even-multiple](https://github.com/Jithinc-gopal/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Jithinc-gopal/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2556-convert-the-temperature](https://github.com/Jithinc-gopal/leetcode/tree/master/2556-convert-the-temperature) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jithinc-gopal/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Jithinc-gopal/leetcode/tree/master/1952-three-divisors) |
+| [2413-smallest-even-multiple](https://github.com/Jithinc-gopal/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Prefix Sum
 |  |
 | ------- |
