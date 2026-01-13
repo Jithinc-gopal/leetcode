@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Jithinc-gopal/leetcode/tree/master/0175-combine-two-tables) |
+| [1693-daily-leads-and-partners](https://github.com/Jithinc-gopal/leetcode/tree/master/1693-daily-leads-and-partners) |
 ## Stack
 |  |
 | ------- |
