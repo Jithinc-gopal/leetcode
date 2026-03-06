@@ -12,6 +12,7 @@
 | [0909-stone-game](https://github.com/Jithinc-gopal/leetcode/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jithinc-gopal/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jithinc-gopal/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -53,6 +54,7 @@
 | [0258-add-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Jithinc-gopal/leetcode/tree/master/0412-fizz-buzz) |
 | [0909-stone-game](https://github.com/Jithinc-gopal/leetcode/tree/master/0909-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jithinc-gopal/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Jithinc-gopal/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
