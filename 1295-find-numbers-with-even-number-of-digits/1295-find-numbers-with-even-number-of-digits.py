@@ -1,6 +1,5 @@
 class Solution(object):
     def findNumbers(self, nums):
-        # n = [str(x) for x in nums]
         count = 0
         for i in nums:
             if len(str(i))%2==0:
