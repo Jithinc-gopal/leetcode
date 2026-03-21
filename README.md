@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Jithinc-gopal/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Jithinc-gopal/leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Jithinc-gopal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jithinc-gopal/leetcode/tree/master/0217-contains-duplicate) |
 | [0909-stone-game](https://github.com/Jithinc-gopal/leetcode/tree/master/0909-stone-game) |
@@ -151,4 +152,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Jithinc-gopal/leetcode/tree/master/1952-three-divisors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
