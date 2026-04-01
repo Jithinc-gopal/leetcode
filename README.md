@@ -20,6 +20,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Jithinc-gopal/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1944-truncate-sentence](https://github.com/Jithinc-gopal/leetcode/tree/master/1944-truncate-sentence) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jithinc-gopal/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Jithinc-gopal/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Jithinc-gopal/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Jithinc-gopal/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -91,6 +92,7 @@
 | [0782-jewels-and-stones](https://github.com/Jithinc-gopal/leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jithinc-gopal/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Jithinc-gopal/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jithinc-gopal/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Jithinc-gopal/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [4008-restore-finishing-order](https://github.com/Jithinc-gopal/leetcode/tree/master/4008-restore-finishing-order) |
 ## Queue
@@ -103,6 +105,7 @@
 | [0169-majority-element](https://github.com/Jithinc-gopal/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jithinc-gopal/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Jithinc-gopal/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jithinc-gopal/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Jithinc-gopal/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3778-transform-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
