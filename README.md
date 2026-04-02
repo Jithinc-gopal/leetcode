@@ -13,6 +13,7 @@
 | [0909-stone-game](https://github.com/Jithinc-gopal/leetcode/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Jithinc-gopal/leetcode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jithinc-gopal/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -84,6 +85,7 @@
 | [0217-contains-duplicate](https://github.com/Jithinc-gopal/leetcode/tree/master/0217-contains-duplicate) |
 | [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Jithinc-gopal/leetcode/tree/master/1051-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jithinc-gopal/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3778-transform-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
@@ -117,6 +119,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Jithinc-gopal/leetcode/tree/master/1051-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jithinc-gopal/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String Matching
 |  |
