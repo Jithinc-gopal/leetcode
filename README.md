@@ -22,6 +22,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jithinc-gopal/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1944-truncate-sentence](https://github.com/Jithinc-gopal/leetcode/tree/master/1944-truncate-sentence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jithinc-gopal/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jithinc-gopal/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Jithinc-gopal/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Jithinc-gopal/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Jithinc-gopal/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -49,6 +50,7 @@
 | [0782-jewels-and-stones](https://github.com/Jithinc-gopal/leetcode/tree/master/0782-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jithinc-gopal/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1944-truncate-sentence](https://github.com/Jithinc-gopal/leetcode/tree/master/1944-truncate-sentence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jithinc-gopal/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Jithinc-gopal/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Math
 |  |
