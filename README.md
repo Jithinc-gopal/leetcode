@@ -24,6 +24,7 @@
 | [1944-truncate-sentence](https://github.com/Jithinc-gopal/leetcode/tree/master/1944-truncate-sentence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jithinc-gopal/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jithinc-gopal/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Jithinc-gopal/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Jithinc-gopal/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Jithinc-gopal/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Jithinc-gopal/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Jithinc-gopal/leetcode/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Jithinc-gopal/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
