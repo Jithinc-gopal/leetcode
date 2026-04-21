@@ -21,6 +21,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Jithinc-gopal/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jithinc-gopal/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1920-build-array-from-permutation](https://github.com/Jithinc-gopal/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1944-truncate-sentence](https://github.com/Jithinc-gopal/leetcode/tree/master/1944-truncate-sentence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jithinc-gopal/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jithinc-gopal/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Jithinc-gopal/leetcode/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/Jithinc-gopal/leetcode/tree/master/1920-build-array-from-permutation) |
 | [3701-compute-alternating-sum](https://github.com/Jithinc-gopal/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Sorting
 |  |
