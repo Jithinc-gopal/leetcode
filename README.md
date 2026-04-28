@@ -15,6 +15,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Jithinc-gopal/leetcode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Jithinc-gopal/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jithinc-gopal/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jithinc-gopal/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Jithinc-gopal/leetcode/tree/master/0412-fizz-buzz) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Jithinc-gopal/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Jithinc-gopal/leetcode/tree/master/1920-build-array-from-permutation) |
 | [3701-compute-alternating-sum](https://github.com/Jithinc-gopal/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Sorting
