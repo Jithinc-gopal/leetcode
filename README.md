@@ -26,6 +26,7 @@
 | [1920-build-array-from-permutation](https://github.com/Jithinc-gopal/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1944-truncate-sentence](https://github.com/Jithinc-gopal/leetcode/tree/master/1944-truncate-sentence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jithinc-gopal/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Jithinc-gopal/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jithinc-gopal/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jithinc-gopal/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jithinc-gopal/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -59,6 +60,7 @@
 | [0782-jewels-and-stones](https://github.com/Jithinc-gopal/leetcode/tree/master/0782-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jithinc-gopal/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1944-truncate-sentence](https://github.com/Jithinc-gopal/leetcode/tree/master/1944-truncate-sentence) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Jithinc-gopal/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jithinc-gopal/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jithinc-gopal/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Jithinc-gopal/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -90,6 +92,7 @@
 | [0412-fizz-buzz](https://github.com/Jithinc-gopal/leetcode/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Jithinc-gopal/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Jithinc-gopal/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Jithinc-gopal/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3701-compute-alternating-sum](https://github.com/Jithinc-gopal/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Sorting
 |  |
