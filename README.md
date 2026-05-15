@@ -34,6 +34,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/Jithinc-gopal/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Jithinc-gopal/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Jithinc-gopal/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jithinc-gopal/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jithinc-gopal/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/Jithinc-gopal/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3778-transform-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/3778-transform-array-by-parity) |
@@ -84,6 +85,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jithinc-gopal/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/Jithinc-gopal/leetcode/tree/master/2556-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Jithinc-gopal/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jithinc-gopal/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jithinc-gopal/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
