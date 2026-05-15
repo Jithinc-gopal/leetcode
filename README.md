@@ -65,6 +65,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jithinc-gopal/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jithinc-gopal/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Jithinc-gopal/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [3019-number-of-changing-keys](https://github.com/Jithinc-gopal/leetcode/tree/master/3019-number-of-changing-keys) |
 ## Math
 |  |
 | ------- |
