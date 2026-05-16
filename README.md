@@ -60,6 +60,7 @@
 | [0742-to-lower-case](https://github.com/Jithinc-gopal/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Jithinc-gopal/leetcode/tree/master/0782-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jithinc-gopal/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Jithinc-gopal/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1944-truncate-sentence](https://github.com/Jithinc-gopal/leetcode/tree/master/1944-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jithinc-gopal/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jithinc-gopal/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -118,6 +119,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jithinc-gopal/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Jithinc-gopal/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jithinc-gopal/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Jithinc-gopal/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jithinc-gopal/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Jithinc-gopal/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [4008-restore-finishing-order](https://github.com/Jithinc-gopal/leetcode/tree/master/4008-restore-finishing-order) |
