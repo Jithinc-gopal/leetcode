@@ -80,6 +80,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jithinc-gopal/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Jithinc-gopal/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Jithinc-gopal/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Jithinc-gopal/leetcode/tree/master/1952-three-divisors) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0136-single-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jithinc-gopal/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Heap (Priority Queue)
 |  |
