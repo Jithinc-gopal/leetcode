@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/Jithinc-gopal/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jithinc-gopal/leetcode/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/Jithinc-gopal/leetcode/tree/master/0561-array-partition) |
 | [0909-stone-game](https://github.com/Jithinc-gopal/leetcode/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -113,6 +114,7 @@
 | [0169-majority-element](https://github.com/Jithinc-gopal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jithinc-gopal/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/Jithinc-gopal/leetcode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Jithinc-gopal/leetcode/tree/master/1051-height-checker) |
@@ -153,6 +155,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Jithinc-gopal/leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Jithinc-gopal/leetcode/tree/master/1051-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jithinc-gopal/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String Matching
@@ -215,4 +218,8 @@
 | ------- |
 | [0268-missing-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jithinc-gopal/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Jithinc-gopal/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
