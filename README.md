@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Jithinc-gopal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jithinc-gopal/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jithinc-gopal/leetcode/tree/master/0283-move-zeroes) |
 | [0909-stone-game](https://github.com/Jithinc-gopal/leetcode/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -77,6 +78,7 @@
 | [0009-palindrome-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Jithinc-gopal/leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Jithinc-gopal/leetcode/tree/master/0412-fizz-buzz) |
 | [0909-stone-game](https://github.com/Jithinc-gopal/leetcode/tree/master/0909-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jithinc-gopal/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -110,6 +112,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Jithinc-gopal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jithinc-gopal/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Jithinc-gopal/leetcode/tree/master/1051-height-checker) |
@@ -123,6 +126,7 @@
 | [0001-two-sum](https://github.com/Jithinc-gopal/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Jithinc-gopal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jithinc-gopal/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jithinc-gopal/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Jithinc-gopal/leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jithinc-gopal/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -199,6 +203,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jithinc-gopal/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Heap (Priority Queue)
@@ -208,5 +213,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jithinc-gopal/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
