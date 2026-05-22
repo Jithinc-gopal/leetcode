@@ -36,6 +36,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jithinc-gopal/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Jithinc-gopal/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/Jithinc-gopal/leetcode/tree/master/2974-minimum-number-game) |
+| [3028-ant-on-the-boundary](https://github.com/Jithinc-gopal/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Jithinc-gopal/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Jithinc-gopal/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jithinc-gopal/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -108,6 +109,7 @@
 | [1920-build-array-from-permutation](https://github.com/Jithinc-gopal/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jithinc-gopal/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/Jithinc-gopal/leetcode/tree/master/2974-minimum-number-game) |
+| [3028-ant-on-the-boundary](https://github.com/Jithinc-gopal/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3701-compute-alternating-sum](https://github.com/Jithinc-gopal/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Sorting
 |  |
@@ -185,6 +187,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Jithinc-gopal/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [3028-ant-on-the-boundary](https://github.com/Jithinc-gopal/leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Database
 |  |
 | ------- |
