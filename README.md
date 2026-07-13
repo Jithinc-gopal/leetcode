@@ -105,6 +105,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jithinc-gopal/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Jithinc-gopal/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jithinc-gopal/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3908-valid-digit-number](https://github.com/Jithinc-gopal/leetcode/tree/master/3908-valid-digit-number) |
 ## Simulation
 |  |
 | ------- |
