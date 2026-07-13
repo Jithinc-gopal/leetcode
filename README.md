@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/Jithinc-gopal/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jithinc-gopal/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Jithinc-gopal/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Jithinc-gopal/leetcode/tree/master/0561-array-partition) |
 | [0909-stone-game](https://github.com/Jithinc-gopal/leetcode/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
