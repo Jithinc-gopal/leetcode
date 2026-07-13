@@ -33,6 +33,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jithinc-gopal/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jithinc-gopal/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jithinc-gopal/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2678-number-of-senior-citizens](https://github.com/Jithinc-gopal/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jithinc-gopal/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jithinc-gopal/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Jithinc-gopal/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -73,6 +74,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jithinc-gopal/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jithinc-gopal/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jithinc-gopal/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2678-number-of-senior-citizens](https://github.com/Jithinc-gopal/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Jithinc-gopal/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3019-number-of-changing-keys](https://github.com/Jithinc-gopal/leetcode/tree/master/3019-number-of-changing-keys) |
 ## Math
