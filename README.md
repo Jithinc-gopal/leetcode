@@ -63,6 +63,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jithinc-gopal/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jithinc-gopal/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Jithinc-gopal/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Jithinc-gopal/leetcode/tree/master/0344-reverse-string) |
@@ -208,6 +209,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jithinc-gopal/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Jithinc-gopal/leetcode/tree/master/0155-min-stack) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jithinc-gopal/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -252,4 +254,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Jithinc-gopal/leetcode/tree/master/0155-min-stack) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Jithinc-gopal/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
