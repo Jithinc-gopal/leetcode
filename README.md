@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/Jithinc-gopal/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jithinc-gopal/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Jithinc-gopal/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Jithinc-gopal/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Jithinc-gopal/leetcode/tree/master/0561-array-partition) |
 | [0909-stone-game](https://github.com/Jithinc-gopal/leetcode/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/Jithinc-gopal/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -211,10 +212,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jithinc-gopal/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Jithinc-gopal/leetcode/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/Jithinc-gopal/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jithinc-gopal/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Jithinc-gopal/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jithinc-gopal/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Enumeration
 |  |
